@@ -1,0 +1,15 @@
+nav img {
+  width: 13rem;
+  height: 4.3rem;
+  border-radius: 5px;
+}
+nav ul li a {
+  font-weight: 200;
+  font-size: 1.7rem;
+  color: #333;
+}
+nav ul li a:hover {
+  opacity: 0.7;
+}
+
+/*# sourceMappingURL=App.css.map */
